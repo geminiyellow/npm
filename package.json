@@ -1,0 +1,59 @@
+{
+    "name": "npm",
+    "version": "0.0.1",
+    "description": "node, angular packages",
+    "main": "server.js",
+    "dependencies": {
+        "body-parser": "*",
+        "bower": "*",
+        "compression":"*",
+        "connect-timeout":"*",
+        "cookie-parser":"*",
+        "cookie-session":"*",
+        "cordova":"*",
+        "csurf":"*",
+        "ejs": "*",
+        "errorhandler":"*",
+        "express":"*",
+        "express-session":"*",
+        "ionic":"*",
+        "jade":"*",
+        "lodash":"*",
+        "method-override":"*",
+        "mongoose":"*",
+        "morgan":"*",
+        "needle":"*",
+        "node-uuid": "*",
+        "nodemon": "*",
+        "passport":"*",
+        "passport-facebook":"*",
+        "passport-local":"*",
+        "passport-twitter":"*",
+        "redis":"*",
+        "response-time":"*",
+        "serve-favicon":"*",
+        "serve-index":"*",
+        "serve-static":"*",
+        "shrinkwrap": "*",
+        "socket.io":"*",
+        "stylus":"*",
+        "vhost":"*"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "postinstall": "./node_modules/bower/bin/bower install",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/geminiyellow/npm.git"
+    },
+    "author": "geminiyellow",
+    "url": "https://github.com/geminiyellow/npm.git",
+    "email": "geminiyellow@gmail.com",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/geminiyellow/npm/issues"
+    },
+    "homepage": "https://github.com/geminiyellow/npm"
+}
