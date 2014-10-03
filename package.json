@@ -25,6 +25,7 @@
         "needle":"*",
         "node-uuid": "*",
         "nodemon": "*",
+        "orion" : "*",
         "passport":"*",
         "passport-facebook":"*",
         "passport-local":"*",
