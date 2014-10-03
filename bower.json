@@ -1,0 +1,22 @@
+{
+    "name": "ilivebox",
+    "version": "0.0.0",
+    "description": "ilivebox",
+    "dependencies": {
+        "angular": "latest",
+        "bootstrap": "latest",
+        "jquery": "latest",
+        "lodash": "latest",
+        "typeahead.js": "latest",
+        "font-awesome": "latest"
+    },
+    "author": {
+        "name": "geminiyellow@gmail.com",
+        "email": ""
+    },
+    "main": "server.js",
+    "moduleType": [
+      "node"
+    ],
+    "license": "MIT"
+}
