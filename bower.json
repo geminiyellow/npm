@@ -3,12 +3,20 @@
     "version": "0.0.0",
     "description": "ilivebox",
     "dependencies": {
-        "angular": "latest",
+        "angular": "1.2.26",
+        "angular-bindonce": "latest",
+        "angular-http-auth": "latest",
+        "angular-translate": "latest",
+        "angular-translate-storage-cookie": "latest",
+        "angular-translate-storage-local": "latest",
+        "angular-translate-loader-static-files": "latest",
         "bootstrap": "latest",
-        "jquery": "latest",
+        "font-awesome": "latest",
+        "jquery": "1.11.1",
         "lodash": "latest",
-        "typeahead.js": "latest",
-        "font-awesome": "latest"
+        "modernizr": "latest",
+        "ngstorage": "latest",
+        "typeahead.js": "latest"
     },
     "author": {
         "name": "geminiyellow@gmail.com",
@@ -16,7 +24,7 @@
     },
     "main": "server.js",
     "moduleType": [
-      "node"
+        "node"
     ],
     "license": "MIT"
 }
